@@ -14,7 +14,7 @@ namespace Quiz
             "5. Suyun donma tempraturu nece derecedir?",
             "6. Hansi ixtiraci elektrik lampasini kesf edib?",
             "7. Komputerin esas beyni nedir?",
-            "8. Azerbaycan respublkasinin milli musiqi aleti hansidir?",
+            "8. Azerbaycan respublikasinin milli musiqi aleti hansidir?",
             "9. Hansi olke Avropanin en boyuk erazisine sahibdir?",
             "10. NASA hansi sahede fealiyyet gosterir?"
         };
